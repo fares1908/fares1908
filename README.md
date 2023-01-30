@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm fares</h1>
+<h1 align="center">Hi 👋, I'm Fares</h1>
 <h3 align="center">A passionate Android developer from Eygpt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fares1908&label=Profile%20views&color=0e75b6&style=flat" alt="fares1908" /> </p>
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fares-elhomsy-0a7578259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fares-elhomsy-0a7578259" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/fares1907?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fares1907?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fares elhomsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fares elhomsy" height="30" width="40" /></a>
+<a href="https://fb.com/fares1907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fares1907" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/farress" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farress" height="30" width="40" /></a>
 </p>
 
