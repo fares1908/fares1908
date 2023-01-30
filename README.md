@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fares-elhomsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fares-elhomsy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ares-elhomsy-0a7578259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ares-elhomsy-0a7578259" height="30" width="40" /></a>
 <a href="https://fb.com/fares1907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fares1907" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/farress" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farress" height="30" width="40" /></a>
 </p>
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fares1908&show_icons=true&locale=en" alt="fares1908" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fares1908&" alt="fares1908" /></p>
+****
