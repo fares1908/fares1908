@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400"  hegight="200" src="https://giffiles.alphacoders.com/120/120001.gif">
+
 <h1 align="center">Hi 👋, I'm Fares</h1>
 <h3 align="center">I am Android developer from Eygpt</h3>
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-184.gif">
