@@ -25,6 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fares1908&show_icons=true&locale=en&layout=compact" alt="fares1908" /></p>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fares1908&" alt="fares1908" /></p>
-
