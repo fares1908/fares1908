@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-184.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fares1908&label=Profile%20views&color=0e75b6&style=flat" alt="fares1908" /> </p>
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+-  I’m looking to collaborate on **Flutter Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fares1908](https://github.com/fares1908)
+- All of my projects are available at [https://github.com/fares1908](https://github.com/fares1908)
 
 - 💬 Ask me about **Flutter,Database,C++,Java,data structure,oop**
 
