@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Fares</h1>
-<h3 align="center">I'm android dev </h3>
+<h1 align="center">Hi I'm Fares</h1>
+<h3 align="center">I'm Flutter Dev </h3>
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-184.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fares1908&label=Profile%20views&color=0e75b6&style=flat" alt="fares1908" /> </p>
 
