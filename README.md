@@ -8,7 +8,7 @@
 
 - All of my projects are available at [https://github.com/fares1908](https://github.com/fares1908)
 
-- 💬 Ask me about **Flutter,Database,C++,Java,data structure,oop**
+- 💬 Ask me about **Flutter,Node js ,Database,C++,Java,data structure,oop**
 
 - 📫 How to reach me **faressamymohamed@gmail.com**
 
