@@ -31,7 +31,6 @@
 - 🎓 BSc Computer Science — Benha University (2024)  
   Graduation Project: **Speaking Finger** (Arabic Sign Language Recognition & Speech Generation) — Grade: **A+**
 
-
 ---
 
 ## 🛠️ Tech Stack
@@ -47,14 +46,21 @@
 
 ---
 
+<table>
+  <tr>
+    <td valign="top" width="55%">
+
 ## 📫 Contact
 - Email: **faressamymohamed@gmail.com**
 - LinkedIn: https://linkedin.com/in/fares1907
 - GitHub: https://github.com/fares1908
 - Portfolio: https://portfolio-nine-theta-i9twynbflr.vercel.app/
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fares1908&show_icons=true&locale=en&layout=compact" alt="fares1908" />
-</p>
+    </td>
+    <td valign="top" width="45%">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fares1908&show_icons=true&locale=en&layout=compact" alt="fares1908" />
+      </p>
+    </td>
+  </tr>
+</table>
