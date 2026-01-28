@@ -31,69 +31,6 @@
 - 🎓 BSc Computer Science — Benha University (2024)  
   Graduation Project: **Speaking Finger** (Arabic Sign Language Recognition & Speech Generation) — Grade: **A+**
 
----
-
-## 🧑‍💻 Experience
-### **ALOHA DOT Company — Flutter Developer** (May 2024 – Present) | Nasr City
-- Developed **DotChat** (Social + Marketplace + Payments)
-- Implemented **Clean Architecture** (Domain / Data / Presentation) + **BLoC**
-- Integrated **Socket.IO + Laravel Echo**, **Stripe/PayPal**, in-app notifications
-- Built **Deep Linking** for products & merchants
-- Successfully published on **Google Play** and **App Store**
-
-### **InTechnology Company — Flutter Developer** (Jan 2024 – Jun 2024) | Giza
-- Built **Thrift Car** (buy/sell cars) — Flutter (App + Web)
-- Applied **MVC + GetX**, multi-language support
-- Developed **Admin Panel** for listings and user feedback
-- Implemented secure authentication flows
-
-### **Rstar Company — Flutter Intern** (Jun 2023 – Aug 2023) | Giza
-- Assisted in Flutter app development, UI, API integration, debugging
-- Improved teamwork + Git/GitHub workflow
-
----
-
-## 📌 Featured Projects
-### ✅ DotChat (Mobile App)
-Cross-platform app combining social, marketplace and payments features.  
-- Animations, REST APIs, pagination, caching  
-- Data encryption/decryption + offline support  
-- Realtime: Socket.IO / Laravel Echo  
-- Payments: Stripe / PayPal  
-
-📱 App Store: https://apps.apple.com/eg/app/dotchat/id6465952842  
-🤖 Google Play: https://play.google.com/store/apps/details?id=com.dotchat.alohaa
-
-### ✅ Thrift Car (App + Web)
-E-commerce style platform for buying/selling cars.  
-- Flutter Web + Flutter Mobile  
-- GetX + MVC, Localization, Admin Panel, Auth
-
-### ✅ Speaking Finger (Graduation Project)
-Arabic sign language recognition + real-time Arabic speech generation.  
-- CNN + YOLO + TensorFlow Lite  
-- Flutter + HTTP/APIs
-
-### ✅ Sneaker App (Full-Stack)
-E-commerce app + Admin Panel + tracking.  
-- Flutter + GetX + SQL + PHP Backend  
-- Stripe Payments, Google Maps, SOLID/MVC
-
-### ✅ Furniture App (Full-Stack)
-E-commerce furniture app + Admin Panel  
-- Flutter + Node.js (Express)  
-- Secure auth, catalog/cart, payments
-
-### ✅ ShopEase
-Cross-platform e-commerce app  
-- Auth + CRUD  
-- BLoC + MVVM, Dio
-
-### ✅ QuickChat
-Real-time chat system  
-- Node.js (Express) + Socket.IO  
-- Auth + secure communication  
-- Flutter (GetX + MVC)
 
 ---
 
@@ -114,7 +51,7 @@ Real-time chat system
 - Email: **faressamymohamed@gmail.com**
 - LinkedIn: https://linkedin.com/in/fares1907
 - GitHub: https://github.com/fares1908
-- Portfolio:[ https://faressamy.dev](https://portfolio-nine-theta-i9twynbflr.vercel.app/)
+- Portfolio: https://portfolio-nine-theta-i9twynbflr.vercel.app/
 
 ---
 
