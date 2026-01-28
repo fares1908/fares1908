@@ -114,7 +114,7 @@ Real-time chat system
 - Email: **faressamymohamed@gmail.com**
 - LinkedIn: https://linkedin.com/in/fares1907
 - GitHub: https://github.com/fares1908
-- Portfolio: https://faressamy.dev
+- Portfolio:[ https://faressamy.dev](https://portfolio-nine-theta-i9twynbflr.vercel.app/)
 
 ---
 
