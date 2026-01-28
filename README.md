@@ -11,7 +11,8 @@
   <a href="https://github.com/fares1908" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-fares1908-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://faressamy.dev" target="_blank">
+  <a href="https://portfolio-nine-theta-i9twynbflr.vercel.app/
+" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-faressamy.dev-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
