@@ -1,27 +1,123 @@
+<h1 align="center">Hi, I'm Fares Samy Mohamed 👋</h1>
+<h3 align="center">Flutter Developer | Clean Architecture • BLoC/Cubit • GetX</h3>
 
-<h1 align="center">Hi I'm Fares</h1>
-<h3 align="center">I'm Flutter Dev </h3>
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-184.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fares1908&label=Profile%20views&color=0e75b6&style=flat" alt="fares1908" /> </p>
-
--  I’m looking to collaborate on **Flutter Projects**
-
-- All of my projects are available at [https://github.com/fares1908](https://github.com/fares1908)
-
-- 💬 Ask me about **Flutter,Node js ,Database,C++,Java,data structure,oop**
-
-- 📫 How to reach me **faressamymohamed@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fares1907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fares1907" height="30" width="40" /></a>
-<a href="https://fb.com/fares1907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fares1907" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/farress" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farress" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/fares1907" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Fares%20Samy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:faressamymohamed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-faressamymohamed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/fares1908" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-fares1908-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://faressamy.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-faressamy.dev-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fares1908&show_icons=true&locale=en&layout=compact" alt="fares1908" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fares1908&label=Profile%20views&color=0e75b6&style=flat" alt="fares1908" />
+</p>
 
+---
 
+## 🚀 About Me
+- 📱 Flutter Developer with hands-on experience building and **publishing cross-platform apps** to **Google Play** and **App Store**
+- 🧱 Strong in **Clean Architecture**, **BLoC/Cubit**, **GetX**, **REST APIs**
+- ⚡ Worked with **real-time communication** (Socket.IO, Laravel Echo)
+- 💳 Integrated payments: **Stripe, PayPal**
+- 🔔 Implemented **Push Notifications**, **Deep Linking**, **Localization**
+- 🎓 BSc Computer Science — Benha University (2024)  
+  Graduation Project: **Speaking Finger** (Arabic Sign Language Recognition & Speech Generation) — Grade: **A+**
+
+---
+
+## 🧑‍💻 Experience
+### **ALOHA DOT Company — Flutter Developer** (May 2024 – Present) | Nasr City
+- Developed **DotChat** (Social + Marketplace + Payments)
+- Implemented **Clean Architecture** (Domain / Data / Presentation) + **BLoC**
+- Integrated **Socket.IO + Laravel Echo**, **Stripe/PayPal**, in-app notifications
+- Built **Deep Linking** for products & merchants
+- Successfully published on **Google Play** and **App Store**
+
+### **InTechnology Company — Flutter Developer** (Jan 2024 – Jun 2024) | Giza
+- Built **Thrift Car** (buy/sell cars) — Flutter (App + Web)
+- Applied **MVC + GetX**, multi-language support
+- Developed **Admin Panel** for listings and user feedback
+- Implemented secure authentication flows
+
+### **Rstar Company — Flutter Intern** (Jun 2023 – Aug 2023) | Giza
+- Assisted in Flutter app development, UI, API integration, debugging
+- Improved teamwork + Git/GitHub workflow
+
+---
+
+## 📌 Featured Projects
+### ✅ DotChat (Mobile App)
+Cross-platform app combining social, marketplace and payments features.  
+- Animations, REST APIs, pagination, caching  
+- Data encryption/decryption + offline support  
+- Realtime: Socket.IO / Laravel Echo  
+- Payments: Stripe / PayPal  
+
+📱 App Store: https://apps.apple.com/eg/app/dotchat/id6465952842  
+🤖 Google Play: https://play.google.com/store/apps/details?id=com.dotchat.alohaa
+
+### ✅ Thrift Car (App + Web)
+E-commerce style platform for buying/selling cars.  
+- Flutter Web + Flutter Mobile  
+- GetX + MVC, Localization, Admin Panel, Auth
+
+### ✅ Speaking Finger (Graduation Project)
+Arabic sign language recognition + real-time Arabic speech generation.  
+- CNN + YOLO + TensorFlow Lite  
+- Flutter + HTTP/APIs
+
+### ✅ Sneaker App (Full-Stack)
+E-commerce app + Admin Panel + tracking.  
+- Flutter + GetX + SQL + PHP Backend  
+- Stripe Payments, Google Maps, SOLID/MVC
+
+### ✅ Furniture App (Full-Stack)
+E-commerce furniture app + Admin Panel  
+- Flutter + Node.js (Express)  
+- Secure auth, catalog/cart, payments
+
+### ✅ ShopEase
+Cross-platform e-commerce app  
+- Auth + CRUD  
+- BLoC + MVVM, Dio
+
+### ✅ QuickChat
+Real-time chat system  
+- Node.js (Express) + Socket.IO  
+- Auth + secure communication  
+- Flutter (GetX + MVC)
+
+---
+
+## 🛠️ Tech Stack
+**Mobile:** Flutter, Dart  
+**State Management:** BLoC, Cubit, GetX  
+**Architecture:** Clean Architecture, MVC, MVVM, SOLID  
+**Backend:** Node.js (Express), PHP  
+**Realtime:** Socket.IO, Laravel Echo, Firebase  
+**Payments:** Stripe, PayPal  
+**Databases:** MySQL, MongoDB, Firebase  
+**Tools:** Git/GitHub, Postman, Figma, Fastlane (CI/CD)  
+**Other:** Google Maps, QR Code, Push Notifications, Deep Linking, Localization
+
+---
+
+## 📫 Contact
+- Email: **faressamymohamed@gmail.com**
+- LinkedIn: https://linkedin.com/in/fares1907
+- GitHub: https://github.com/fares1908
+- Portfolio: https://faressamy.dev
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fares1908&show_icons=true&locale=en&layout=compact" alt="fares1908" />
+</p>
