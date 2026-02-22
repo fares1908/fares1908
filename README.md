@@ -192,7 +192,7 @@ class FaresSamy extends FlutterDeveloper {
 ### 📫 Let's Build Something Great Together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fares1907)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome)](https://faressamy.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome)](https://portfolio-fares1908s-projects.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:faressamymohamed@gmail.com)
 
 <br/>
