@@ -214,11 +214,7 @@ class FaresSamy extends FlutterDeveloper {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=fares1908&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4&rank=-C,-B,-?" alt="GitHub Trophies"/>
-
-<br/>
-
-> 💡 _If trophies aren't loading, the service might be temporarily down — they'll appear automatically when back online._
+<img src="https://github-trophies.vercel.app/?username=fares1908&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4&rank=-C,-B,-?" alt="GitHub Trophies"/>
 
 </div>
 
@@ -228,9 +224,9 @@ class FaresSamy extends FlutterDeveloper {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fares1908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fares1908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=false"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fares1908&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fares1908&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&hide_border=false"/>
 
 </div>
 
