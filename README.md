@@ -9,7 +9,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fares1907-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fares1907)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-nine-theta-i9twynbflr.vercel.app/contact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-nine-theta-i9twynbflr.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-faressamymohamed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faressamymohamed@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201122436405)
 
@@ -269,7 +269,7 @@ class FaresSamy extends FlutterDeveloper {
 ### 📫 Let's Build Something Great Together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fares1907)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome)](https://portfolio-nine-theta-i9twynbflr.vercel.app/contact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome)](https://portfolio-nine-theta-i9twynbflr.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:faressamymohamed@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/201122436405)
 
