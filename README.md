@@ -214,7 +214,11 @@ class FaresSamy extends FlutterDeveloper {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=fares1908&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=fares1908&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4&rank=-C,-B,-?" alt="GitHub Trophies"/>
+
+<br/>
+
+> 💡 _If trophies aren't loading, the service might be temporarily down — they'll appear automatically when back online._
 
 </div>
 
