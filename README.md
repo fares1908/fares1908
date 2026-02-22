@@ -1,136 +1,204 @@
-<h1 align="center">Hi, I'm Fares Samy Mohamed 👋</h1>
-<h3 align="center">Flutter Developer | Clean Architecture • BLoC/Cubit • GetX</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/fares1907" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Fares%20Samy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:faressamymohamed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-faressamymohamed%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/fares1908" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-fares1908-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://faressamy.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-faressamy.dev-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Fares%20Samy%20Mohamed&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20🚀&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fares1908&label=Profile%20views&color=0e75b6&style=flat" alt="fares1908" />
-</p>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fares1907-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fares1907)
+[![Portfolio](https://img.shields.io/badge/Portfolio-faressamy.dev-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faressamy.dev)
+[![Email](https://img.shields.io/badge/Email-faressamymohamed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faressamymohamed@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-Flutter Developer with hands-on experience building and **publishing cross-platform mobile apps** to **Google Play** and the **App Store**. Strong in **Clean Architecture**, **BLoC/Cubit**, **GetX**, and **REST API integration**, with experience implementing real-time communication, payments, push notifications, and deep linking.
+```dart
+class FaresSamy extends FlutterDeveloper {
+  final String name     = "Fares Samy Mohamed";
+  final String location = "Cairo, Egypt 🇪🇬";
+  final String degree   = "BSc Computer Science — Benha University (2024)";
 
-- 📍 Cairo, Egypt &nbsp;|&nbsp; 📞 01122436405 / 01027567147
-- 🎓 BSc Computer Science — Benha University *(2020–2024)*
-- 🏆 Graduation Project: **Speaking Finger** — Arabic Sign Language Recognition & Speech Generation — Grade: **A+**
-- 🌍 Open to **onsite**, **remote**, or **hybrid** roles
+  final List<String> expertise = [
+    "Cross-Platform Mobile Development",
+    "Clean Architecture & State Management",
+    "Real-Time Communication (Socket.IO)",
+    "Payment Gateways (Stripe, PayPal)",
+    "Machine Learning Integration",
+  ];
 
----
+  final Map<String, String> availability = {
+    "onsite" : "✅",
+    "remote" : "✅",
+    "hybrid" : "✅",
+  };
 
-## 💼 Professional Experience
-
-### 🔵 ALOHA DOT Company — Flutter Developer *(May 2024 – Present | Nasr City)*
-- Developed **DotChat**, a cross-platform app combining social, marketplace, and payments features
-- Implemented **Clean Architecture** (Domain, Data, Presentation layers) with **BLoC** state management
-- Integrated real-time communication (**Socket.IO**, **Laravel Echo**), payment gateways (**Stripe**, **PayPal**), and in-app notifications
-- Built **Deep Linking** for products and merchants, enabling seamless navigation from shareable links
-- Published successfully on **Google Play** and **App Store**
-
-### 🟡 InTechnology Company — Flutter Developer *(Jan 2024 – Jun 2024 | Giza)*
-- Built **Thrift Car**, a cross-platform app for buying and selling cars
-- Applied **MVC** pattern with **GetX** for state management and multi-language support
-- Developed an admin panel for managing car listings and user feedback
-- Implemented secure authentication flows to protect user data
-
-### 🟢 Rstar Company — Flutter Developer Intern *(Jun 2023 – Aug 2023 | Giza)*
-- Assisted in developing Flutter applications under senior mentorship
-- Gained practical experience in UI design, API integration, and debugging
-- Improved teamwork and version control skills using **Git/GitHub**
+  String get passion => "Building apps that ship to millions 🚀";
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-|---|---|
-| **Mobile** | Flutter, Dart |
-| **State Management** | BLoC, Cubit, GetX |
-| **Architecture** | Clean Architecture, MVC, MVVM, SOLID |
-| **Backend** | Node.js (Express), PHP |
-| **Realtime** | Socket.IO, Laravel Echo, Firebase RTDB |
-| **Payments** | Stripe, PayPal |
-| **Databases** | MySQL, MongoDB, Firebase |
-| **Tools** | Git/GitHub, Postman, Figma, Fastlane, Codemagic |
-| **Other** | Google Maps, QR Code, Push Notifications, Deep Linking, Localization |
-| **Security** | Data Encryption/Decryption, Secure Auth & Authorization |
-| **ML** | TensorFlow Lite, YOLO, CNN (Flutter Vision) |
+<div align="center">
+
+### 📱 Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### ⚙️ State Management & Architecture
+![BLoC](https://img.shields.io/badge/BLoC%2FCubit-4DB6AC?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge&logo=flutter&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6F00?style=for-the-badge&logo=buffer&logoColor=white)
+
+### 🔧 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ⚡ Real-Time & Integrations
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+
+### 🚀 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=codemagic&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🤖 Machine Learning
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+</div>
 
 ---
 
-## 📱 Featured Projects
+## 💼 Professional Experience
 
-### 💬 [DotChat App](https://apps.apple.com/eg/app/dotchat/id6465952842)
-Cross-platform app combining **social, marketplace, and payments** features.
-- Implemented animations, REST APIs, pagination, caching, and data encryption for security & performance
-- Local storage for offline support
-- 🔗 [App Store](https://apps.apple.com/eg/app/dotchat/id6465952842) | [Google Play](https://play.google.com/store/apps/details?id=com.dotchat.alohaa)
+### 🔵 ALOHA DOT Company — Flutter Developer *(May 2024 – Present)*
+> **DotChat** — Social + Marketplace + Payments super-app
 
-### 🏥 Clinexa — Healthcare SaaS Platform
-SaaS healthcare platform with cross-platform Flutter apps (Doctor & Patient).
-- **Clean Architecture** + **BLoC/Cubit** | **Node.js/MongoDB** backend
-- Real-time notifications (FCM/RTDB), appointment booking, prescription PDF generation, cloud storage
+- 🏗️ Implemented **Clean Architecture** (Domain / Data / Presentation layers) with **BLoC**
+- ⚡ Integrated **Socket.IO & Laravel Echo** for real-time messaging
+- 💳 Built payment flows with **Stripe & PayPal**
+- 🔗 Engineered **Deep Linking** for seamless navigation from notifications & shared links
+- 📦 Published on [**Google Play**](https://play.google.com/store/apps/details?id=com.dotchat.alohaa) & [**App Store**](https://apps.apple.com/eg/app/dotchat/id6465952842)
 
-### 🚗 Thrift Car App
-Car buying & selling app built with **Flutter + GetX + MVC**.
-- Multi-language support, user authentication, car listings, Admin Panel
+---
 
-### 👟 Sneaker App *(Full-Stack)*
-E-commerce sneaker app with Admin Panel and payment integration.
-- Flutter, GetX, PHP backend, Stripe, Google Maps tracking
+### 🟢 InTechnology Company — Flutter Developer *(Jan 2024 – Jun 2024)*
+> **Thrift Car** — Cross-platform car buying & selling app
 
-### 🖐️ Speaking Finger — Graduation Project
-Arabic Sign Language recognition & real-time speech generation using **CNN** and **YOLO**.
-- Flutter, TensorFlow Lite, Flutter Vision, HTTP/API integration
+- 🏎️ Built complete car marketplace with admin panel using **GetX + MVC**
+- 🌍 Implemented **multi-language support** (Localization)
+- 🔐 Developed **secure authentication** flows
 
-### 🛋️ Furniture App *(Full-Stack)*
-Furniture e-commerce app with Admin Panel for managing products and users.
-- Flutter, Node.js (Express), secure authentication, cart management, payment gateway
+---
 
-### 🛒 ShopEase App
-Cross-platform e-commerce app with **BLoC + MVVM**, user auth, and CRUD operations.
-- Integrated **Dio** for API handling
+### 🟡 Rstar Company — Flutter Developer Intern *(Jun 2023 – Aug 2023)*
+- 📱 UI development, REST API integration & debugging under senior mentorship
+- 🤝 Strengthened Git/GitHub collaboration & version control skills
 
-### 🌐 Thrift Car Website
-Flutter Web App for car e-commerce with **GetX**, multi-language support, and Admin Panel.
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💬 DotChat App</h3>
+      <p>Super-app combining social networking, marketplace & payments. Features real-time chat, product listings, payment gateways, animations, caching & data encryption.</p>
+      <a href="https://play.google.com/store/apps/details?id=com.dotchat.alohaa">
+        <img src="https://img.shields.io/badge/Google_Play-Download-34A853?style=flat-square&logo=google-play&logoColor=white"/>
+      </a>
+      <a href="https://apps.apple.com/eg/app/dotchat/id6465952842">
+        <img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=app-store&logoColor=white"/>
+      </a>
+      <br/><sub><b>Flutter • BLoC • Socket.IO • Stripe • PayPal • Clean Architecture</b></sub>
+    </td>
+    <td width="50%">
+      <h3>🏥 Clinexa — Healthcare SaaS</h3>
+      <p>Cross-platform healthcare platform with Doctor & Patient apps. Features appointment booking, real-time notifications, prescription PDF generation, and cloud storage.</p>
+      <br/><sub><b>Flutter • BLoC • Node.js • MongoDB • FCM • Firebase RTDB</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤟 Speaking Finger — Graduation Project</h3>
+      <p>Arabic Sign Language recognition system converting hand gestures to real-time Arabic speech using CNN & YOLO. Achieved A+ (Excellent) grade.</p>
+      <br/><sub><b>Flutter • TensorFlow Lite • YOLO • CNN</b></sub>
+    </td>
+    <td width="50%">
+      <h3>🏎️ Thrift Car App & Web</h3>
+      <p>Full-stack car marketplace with admin panel, multi-language support and user authentication. Also includes a Flutter Web version.</p>
+      <br/><sub><b>Flutter • GetX • MVC • Localization</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>👟 Sneaker Store</h3>
+      <p>Full-stack e-commerce app with admin panel, Stripe payments & Google Maps order tracking.</p>
+      <br/><sub><b>Flutter • GetX • PHP • SQL • Stripe • Google Maps</b></sub>
+    </td>
+    <td width="50%">
+      <h3>🛋️ Furniture App</h3>
+      <p>Full-stack furniture e-commerce with admin panel, cart management, and payment gateway.</p>
+      <br/><sub><b>Flutter • Node.js (Express) • MongoDB</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fares1908&show_icons=true&theme=tokyonight&locale=en" alt="fares1908" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fares1908&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fares1908" width="40%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fares1908&theme=tokyonight" alt="fares1908" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fares1908&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fares1908&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=fares1908&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📫 Contact Me
+## 🎯 What I Bring
 
-| | |
+| 💡 Skill | 📋 Details |
 |---|---|
-| 📧 Email | faressamymohamed@gmail.com |
-| 📞 Phone | 01122436405 / 01027567147 |
-| 💼 LinkedIn | [linkedin.com/in/fares1907](https://linkedin.com/in/fares1907) |
-| 🐙 GitHub | [github.com/fares1908](https://github.com/fares1908) |
-| 🌐 Portfolio | [faressamy.dev](https://faressamy.dev) |
-| 📍 Location | Cairo, Egypt |
+| 🏗️ Architecture | Clean Architecture, MVVM, MVC, SOLID Principles |
+| 📦 State Management | BLoC, Cubit, GetX |
+| 🔄 Real-Time | Socket.IO, Laravel Echo, Firebase RTDB |
+| 💳 Payments | Stripe, PayPal |
+| 🔐 Security | Data Encryption, Secure Auth, JWT |
+| 🌍 Global Ready | Localization & Multi-language support |
+| 🚀 CI/CD | Fastlane, Codemagic, App Store & Play Store deployment |
+| 🤖 ML | TensorFlow Lite, YOLO, CNN integration |
+
+---
+
+<div align="center">
+
+### 📫 Let's Build Something Great Together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fares1907)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome)](https://faressamy.dev)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:faressamymohamed@gmail.com)
+
+<br/>
+
+*"Building cross-platform apps that users love, one widget at a time."* 🎯
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=120&section=footer" width="100%"/>
+
+</div>
